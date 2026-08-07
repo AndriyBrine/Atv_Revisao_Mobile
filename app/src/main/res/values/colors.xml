@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gradient1">#97C0DE</color>
+    <color name="gradient2">#DE3A3A</color>
+    <color name="btncolor">#F73A14</color>
+    <color name="redpesado">#701705</color>
+    <color name="facebook">#1877F2</color>
+    <color name="linkedin">#0A66C2</color>
+</resources>
