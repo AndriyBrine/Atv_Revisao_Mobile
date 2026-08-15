@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
             val senha = binding.senhaInput.text.toString().trim()
 
             // Verificar se o login e senha estão válidos
-            if (login == "Andriy" && senha == "1234567890" && senha.length > 10) {
+            if (login == "Andriy" && senha == "12345678901" && senha.length > 10) {
                 // Passar o login para a tela de Dashboard
                 // Classe intent é responsável por enviar dados (texto, numero, float, boolean etc, classes, arrays) de uma tela para outra
                 // this = tela onde esta, Dashboard = para onde quer ir; ::class.java (uma regra da linguagem) <- por tras dos panos tudo isso aqui vira java.
